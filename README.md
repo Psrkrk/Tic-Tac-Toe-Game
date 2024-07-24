@@ -20,3 +20,28 @@ Player 2 follows by placing an O in any of the available squares.
 Players alternate turns until one player aligns three of their marks in a row (vertically, horizontally, or diagonally) or the game results in a draw.
 A message will be displayed to announce the winner or declare a draw.
 Click the "Restart" button to play again.
+
+
+
+Setup
+To run the game locally, follow these steps:
+
+Clone the repository:
+bash
+Copy code
+git clone https://github.com/your-username/tic-tac-toe-game.git
+Navigate to the project directory:
+bash
+Copy code
+cd tic-tac-toe-game
+Open the index.html file in your preferred web browser.
+
+
+Screenshots
+
+![image](https://github.com/user-attachments/assets/ebb93a64-19ec-4c60-86e7-408248fb7b9d)
+
+
+![Uploading image.png…]()
+
+
